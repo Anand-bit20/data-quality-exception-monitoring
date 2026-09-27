@@ -169,7 +169,7 @@ The project also includes reusable SQL views for Power BI reporting.
 
 ## Power BI Dashboard
 
-The project includes a Power BI dashboard designed to monitor data quality and identify major exception areas across transactions and source systems.
+The project includes an interactive Power BI dashboard designed to monitor data quality and identify major exception areas across transactions and source systems.
 
 ### Dashboard Highlights
 
@@ -190,11 +190,12 @@ The project includes a Power BI dashboard designed to monitor data quality and i
 
 ### Power BI Report
 
-The Power BI report file is available in the `powerbi` folder:
+The Power BI report file is available in the `powerbi` folder.
 
-**[Download Data Quality Dashboard](powerbi/Data_Quality_Dashboard.pbix)**
+[Download the Power BI Dashboard](powerbi/Data_Quality_Dashboard.pbix)
 
 The `.pbix` file can be opened using Power BI Desktop.
+
 
 
 ### Dashboard includes
