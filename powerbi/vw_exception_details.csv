@@ -1,0 +1,515 @@
+transaction_id,customer_id,transaction_date,region,source_system,exception_rule,severity,affected_field,description,status
+TXN001056,,2026-08-28 00:00:00,East,Partner Portal,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN000502,,2026-05-11 00:00:00,South,POS,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN000839,,2026-09-01 00:00:00,West,POS,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN000024,,2025-09-06 00:00:00,North,POS,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN000374,,2026-06-27 00:00:00,South,E-Commerce,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN000469,,2026-01-03 00:00:00,South,Mobile App,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN000107,,2026-08-09 00:00:00,North,Mobile App,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN000590,,2026-06-26 00:00:00,North,CRM,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN000066,,2025-03-27 00:00:00,South,Mobile App,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN000498,,2026-06-04 00:00:00,West,CRM,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN002654,,2025-03-10 00:00:00,North,Partner Portal,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN000297,,2026-05-27 00:00:00,East,Mobile App,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN000085,,2025-01-13 00:00:00,East,POS,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN000080,,2025-11-10 00:00:00,East,POS,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN001118,,2025-08-04 00:00:00,South,CRM,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN000394,,2025-04-10 00:00:00,North,POS,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN000158,,2025-06-22 00:00:00,Central,POS,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN000334,,2026-01-12 00:00:00,South,Partner Portal,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN000229,,2025-07-16 00:00:00,Invalid,E-Commerce,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN000030,,2025-07-14 00:00:00,Central,CRM,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN002528,,2025-11-26 00:00:00,Central,Partner Portal,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN001502,,2026-08-31 00:00:00,West,E-Commerce,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN000916,,2025-02-15 00:00:00,Central,Mobile App,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN000169,,2025-12-03 00:00:00,North,Partner Portal,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN002634,,2025-09-15 00:00:00,North,CRM,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN000656,,2026-08-08 00:00:00,East,CRM,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN004396,,2026-09-05 00:00:00,East,Mobile App,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN003322,,2025-11-15 00:00:00,Central,E-Commerce,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN000228,,2025-11-18 00:00:00,East,POS,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN000764,,2026-05-06 00:00:00,North,Mobile App,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN002378,,2026-06-28 00:00:00,North,POS,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN004843,,2025-02-07 00:00:00,East,CRM,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN004316,,2025-04-02 00:00:00,West,E-Commerce,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN001104,,2026-02-09 00:00:00,South,Mobile App,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN003774,,2025-09-07 00:00:00,Central,E-Commerce,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN000487,,2025-10-16 00:00:00,West,E-Commerce,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN001756,,2025-09-18 00:00:00,Central,Partner Portal,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN001085,,2025-04-08 00:00:00,Central,CRM,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN003341,,2026-05-08 00:00:00,Central,POS,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN004685,,2026-05-02 00:00:00,North,E-Commerce,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN001671,,2025-08-28 00:00:00,East,Partner Portal,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN002452,,2025-12-03 00:00:00,East,E-Commerce,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN000712,,2026-06-12 00:00:00,Invalid,CRM,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN000706,,2025-07-08 00:00:00,West,POS,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN003352,,2025-06-21 00:00:00,West,CRM,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN000643,,2025-12-06 00:00:00,South,Partner Portal,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN001002,,2025-04-28 00:00:00,West,CRM,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN002100,,2025-05-01 00:00:00,Central,POS,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN001745,,2025-09-05 00:00:00,West,Mobile App,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN001074,,2025-06-15 00:00:00,North,POS,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN004636,,2026-01-02 00:00:00,West,Partner Portal,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN003025,,2025-05-28 00:00:00,East,E-Commerce,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN004741,,2025-06-10 00:00:00,Central,POS,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN003079,,2026-04-29 00:00:00,South,Mobile App,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN001601,,2026-07-02 00:00:00,West,Partner Portal,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN002587,,2025-10-14 00:00:00,South,CRM,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN002571,,2026-04-22 00:00:00,East,E-Commerce,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN000927,,2025-09-03 00:00:00,West,CRM,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN004967,,2025-11-02 00:00:00,East,E-Commerce,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN004184,,2026-03-19 00:00:00,East,CRM,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN001908,,2026-02-19 00:00:00,West,Partner Portal,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN000795,,2026-01-30 00:00:00,West,Mobile App,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN001414,,2025-02-07 00:00:00,South,POS,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN001145,,2026-09-07 00:00:00,East,POS,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN004629,,2026-07-26 00:00:00,West,E-Commerce,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN003600,,2026-07-14 00:00:00,Central,POS,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN002414,,2025-06-02 00:00:00,North,CRM,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN004258,,2026-01-05 00:00:00,North,CRM,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN003907,,2025-05-04 00:00:00,West,E-Commerce,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN001296,,2025-02-22 00:00:00,East,CRM,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN002139,,2025-02-24 00:00:00,West,Mobile App,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN002465,,2026-08-05 00:00:00,Central,POS,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN002660,,2025-08-22 00:00:00,West,Mobile App,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN001616,,2025-08-19 00:00:00,West,CRM,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN001963,,2026-09-19 00:00:00,North,Partner Portal,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN004867,,2025-07-18 00:00:00,South,Partner Portal,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN002216,,2026-06-03 00:00:00,East,CRM,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN002802,,2025-01-29 00:00:00,East,Mobile App,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN002941,,2025-02-03 00:00:00,South,CRM,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN004616,,2026-05-04 00:00:00,East,CRM,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN002847,,2026-06-27 00:00:00,South,Mobile App,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN003850,,2025-11-14 00:00:00,South,POS,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN004122,,2026-03-26 00:00:00,East,Mobile App,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN004616,,2026-05-04 00:00:00,East,CRM,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN003457,,2026-09-02 00:00:00,North,E-Commerce,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN003544,,2026-04-04 00:00:00,Central,Mobile App,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN002516,,2025-11-23 00:00:00,North,E-Commerce,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN002469,,2026-04-28 00:00:00,South,Mobile App,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN003753,,2025-03-30 00:00:00,South,POS,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN003050,,2025-10-16 00:00:00,Central,CRM,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN003182,,2026-09-01 00:00:00,West,POS,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN004067,,2026-03-10 00:00:00,South,CRM,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN003863,,2026-08-12 00:00:00,South,Partner Portal,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN003162,,2025-03-03 00:00:00,South,E-Commerce,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN004725,,2025-07-11 00:00:00,Central,CRM,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN003022,,2026-07-22 00:00:00,West,CRM,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN004154,,2026-07-28 00:00:00,South,POS,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN003683,,2025-07-12 00:00:00,West,Partner Portal,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN003586,,2026-08-15 00:00:00,South,E-Commerce,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN004768,,2026-01-09 00:00:00,South,POS,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN000374,,2026-06-27 00:00:00,South,E-Commerce,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN004798,,2026-01-16 00:00:00,Central,Partner Portal,Missing Customer ID,High,customer_id,Customer ID is missing.,Open
+TXN000374,,2026-06-27 00:00:00,South,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN000217,CUST17061,2025-10-20 00:00:00,South,Mobile App,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003722,CUST14358,2025-07-06 00:00:00,East,Mobile App,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN000658,CUST10613,2025-06-29 00:00:00,South,Partner Portal,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004097,CUST14850,2025-11-04 00:00:00,East,Partner Portal,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN000684,CUST12360,2025-01-12 00:00:00,West,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003811,CUST11339,2025-09-18 00:00:00,North,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004697,CUST11231,2026-03-05 00:00:00,South,Mobile App,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN002421,CUST12066,2025-11-05 00:00:00,North,Partner Portal,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004840,CUST12651,2026-02-17 00:00:00,Central,Partner Portal,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004132,CUST15025,2026-04-05 00:00:00,Unknown,CRM,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN000351,CUST14068,2026-07-21 00:00:00,West,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003432,CUST10348,2025-12-13 00:00:00,South,CRM,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004389,CUST14170,2025-05-25 00:00:00,North,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004051,CUST15013,2026-02-02 00:00:00,East,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN000549,CUST12677,2025-09-14 00:00:00,North,Mobile App,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004796,CUST13030,2026-08-09 00:00:00,East,Mobile App,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN002979,CUST16718,2025-09-26 00:00:00,West,Partner Portal,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN000185,CUST17703,2025-03-11 00:00:00,North,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003901,CUST18952,2026-09-01 00:00:00,East,Mobile App,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN002909,CUST12263,2025-12-10 00:00:00,South,CRM,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN000185,CUST17703,2025-03-11 00:00:00,North,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004938,CUST12948,2025-08-27 00:00:00,North,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003366,CUST17476,2025-07-20 00:00:00,South,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN002032,CUST13560,2025-07-23 00:00:00,Central,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN002936,CUST14555,2026-02-11 00:00:00,South,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004146,CUST19583,2026-08-30 00:00:00,North,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003337,CUST11060,2026-07-31 00:00:00,West,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003920,CUST19271,2025-08-11 00:00:00,Central,CRM,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN000758,CUST14660,2025-10-23 00:00:00,West,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004362,CUST13117,2025-06-02 00:00:00,Central,Partner Portal,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN001719,CUST13130,2026-07-09 00:00:00,North,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN000588,CUST11162,2026-01-11 00:00:00,North,CRM,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004051,CUST15013,2026-02-02 00:00:00,East,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN001719,CUST13130,2026-07-09 00:00:00,North,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003075,CUST12481,2025-02-14 00:00:00,West,Partner Portal,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN002521,CUST13303,2025-08-29 00:00:00,West,Partner Portal,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003035,CUST18679,2025-07-28 00:00:00,South,Mobile App,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004550,CUST11485,2026-06-13 00:00:00,East,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004813,CUST10461,2026-07-15 00:00:00,South,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN002725,CUST14121,2026-06-22 00:00:00,Central,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN002032,CUST13560,2025-07-23 00:00:00,Central,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004329,CUST18671,2025-03-04 00:00:00,East,CRM,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004813,CUST10461,2026-07-15 00:00:00,South,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN001034,CUST16298,2025-01-13 00:00:00,West,CRM,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN000999,CUST19058,2025-08-11 00:00:00,North,CRM,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN000696,CUST11383,2026-06-25 00:00:00,South,Mobile App,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003614,CUST14098,2026-02-26 00:00:00,East,CRM,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004389,CUST14170,2025-05-25 00:00:00,North,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003614,CUST14098,2026-02-26 00:00:00,East,CRM,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004681,CUST19613,2025-07-15 00:00:00,Central,Partner Portal,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004712,CUST12852,2026-03-01 00:00:00,West,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003366,CUST17476,2025-07-20 00:00:00,South,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004616,,2026-05-04 00:00:00,East,CRM,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004550,CUST11485,2026-06-13 00:00:00,East,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004681,CUST19613,2025-07-15 00:00:00,Central,Partner Portal,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004329,CUST18671,2025-03-04 00:00:00,East,CRM,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN001279,CUST13028,2026-03-19 00:00:00,South,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN002236,CUST15128,2026-07-18 00:00:00,Central,Mobile App,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003920,CUST19271,2025-08-11 00:00:00,Central,CRM,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004975,CUST18167,2025-02-19 00:00:00,East,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003729,CUST17541,2025-10-20 00:00:00,South,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004616,,2026-05-04 00:00:00,East,CRM,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003680,CUST17395,2026-09-06 00:00:00,East,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004006,CUST10887,2025-12-17 00:00:00,North,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN002979,CUST16718,2025-09-26 00:00:00,West,Partner Portal,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN000684,CUST12360,2025-01-12 00:00:00,West,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN000449,CUST15149,2025-02-17 00:00:00,North,Partner Portal,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003075,CUST12481,2025-02-14 00:00:00,West,Partner Portal,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003701,CUST13861,2026-04-08 00:00:00,East,Partner Portal,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN000213,CUST14062,2026-04-23 00:00:00,South,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN001369,CUST12026,2025-08-24 00:00:00,West,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004403,CUST10661,2026-02-07 00:00:00,East,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN001389,CUST15010,2025-10-19 00:00:00,East,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN001369,CUST12026,2025-08-24 00:00:00,West,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004840,CUST12651,2026-02-17 00:00:00,Central,Partner Portal,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN000957,CUST10723,2026-04-01 00:00:00,North,Partner Portal,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN000213,CUST14062,2026-04-23 00:00:00,South,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004403,CUST10661,2026-02-07 00:00:00,East,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN000999,CUST19058,2025-08-11 00:00:00,North,CRM,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003655,CUST19163,2026-03-04 00:00:00,South,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN002421,CUST12066,2025-11-05 00:00:00,North,Partner Portal,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003655,CUST19163,2026-03-04 00:00:00,South,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN000095,CUST14416,2025-08-23 00:00:00,Central,Mobile App,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN001034,CUST16298,2025-01-13 00:00:00,West,CRM,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN000217,CUST17061,2025-10-20 00:00:00,South,Mobile App,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN002167,CUST14571,2026-02-18 00:00:00,East,Mobile App,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004146,CUST19583,2026-08-30 00:00:00,North,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN000449,CUST15149,2025-02-17 00:00:00,North,Partner Portal,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003811,CUST11339,2025-09-18 00:00:00,North,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004975,CUST18167,2025-02-19 00:00:00,East,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN002325,CUST19420,2025-10-10 00:00:00,East,CRM,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN000549,CUST12677,2025-09-14 00:00:00,North,Mobile App,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003680,CUST17395,2026-09-06 00:00:00,East,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004796,CUST13030,2026-08-09 00:00:00,East,Mobile App,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN000696,CUST11383,2026-06-25 00:00:00,South,Mobile App,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN001061,CUST15529,2025-06-13 00:00:00,West,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004202,CUST19319,2025-11-23 00:00:00,North,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN000658,CUST10613,2025-06-29 00:00:00,South,Partner Portal,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003035,CUST18679,2025-07-28 00:00:00,South,Mobile App,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN002051,CUST16269,2026-09-13 00:00:00,West,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004006,CUST10887,2025-12-17 00:00:00,North,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN002236,CUST15128,2026-07-18 00:00:00,Central,Mobile App,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004712,CUST12852,2026-03-01 00:00:00,West,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004097,CUST14850,2025-11-04 00:00:00,East,Partner Portal,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004362,CUST13117,2025-06-02 00:00:00,Central,Partner Portal,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN002767,CUST16485,2026-02-07 00:00:00,South,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004202,CUST19319,2025-11-23 00:00:00,North,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN000758,CUST14660,2025-10-23 00:00:00,West,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003701,CUST13861,2026-04-08 00:00:00,East,Partner Portal,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN000588,CUST11162,2026-01-11 00:00:00,North,CRM,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN000351,CUST14068,2026-07-21 00:00:00,West,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN000954,CUST17606,2025-08-27 00:00:00,West,CRM,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004617,CUST14048,2026-09-08 00:00:00,South,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN001279,CUST13028,2026-03-19 00:00:00,South,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN000374,,2026-06-27 00:00:00,South,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN001688,CUST14273,2025-06-12 00:00:00,South,Partner Portal,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN002936,CUST14555,2026-02-11 00:00:00,South,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN002051,CUST16269,2026-09-13 00:00:00,West,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003819,CUST19728,2025-07-13 00:00:00,North,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN000095,CUST14416,2025-08-23 00:00:00,Central,Mobile App,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN002167,CUST14571,2026-02-18 00:00:00,East,Mobile App,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004938,CUST12948,2025-08-27 00:00:00,North,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003449,CUST13861,2026-08-12 00:00:00,West,Mobile App,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN002325,CUST19420,2025-10-10 00:00:00,East,CRM,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003449,CUST13861,2026-08-12 00:00:00,West,Mobile App,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN002767,CUST16485,2026-02-07 00:00:00,South,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003901,CUST18952,2026-09-01 00:00:00,East,Mobile App,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003819,CUST19728,2025-07-13 00:00:00,North,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN002725,CUST14121,2026-06-22 00:00:00,Central,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN001389,CUST15010,2025-10-19 00:00:00,East,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN000954,CUST17606,2025-08-27 00:00:00,West,CRM,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004617,CUST14048,2026-09-08 00:00:00,South,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN001688,CUST14273,2025-06-12 00:00:00,South,Partner Portal,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004116,CUST14020,2025-02-08 00:00:00,Central,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004132,CUST15025,2026-04-05 00:00:00,Unknown,CRM,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004116,CUST14020,2025-02-08 00:00:00,Central,E-Commerce,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003729,CUST17541,2025-10-20 00:00:00,South,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN001061,CUST15529,2025-06-13 00:00:00,West,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN002909,CUST12263,2025-12-10 00:00:00,South,CRM,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN002521,CUST13303,2025-08-29 00:00:00,West,Partner Portal,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN000957,CUST10723,2026-04-01 00:00:00,North,Partner Portal,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003432,CUST10348,2025-12-13 00:00:00,South,CRM,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003172,CUST15807,2025-05-25 00:00:00,West,Mobile App,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003273,CUST10274,2025-12-02 00:00:00,South,Partner Portal,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003337,CUST11060,2026-07-31 00:00:00,West,POS,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003273,CUST10274,2025-12-02 00:00:00,South,Partner Portal,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003722,CUST14358,2025-07-06 00:00:00,East,Mobile App,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN004697,CUST11231,2026-03-05 00:00:00,South,Mobile App,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003172,CUST15807,2025-05-25 00:00:00,West,Mobile App,Duplicate Transaction,Medium,transaction_id,Transaction ID appears more than once.,Open
+TXN003883,CUST18069,2025-03-25 00:00:00,Unknown,Partner Portal,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN000229,,2025-07-16 00:00:00,Invalid,E-Commerce,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN003816,CUST19594,2025-06-19 00:00:00,Invalid,Mobile App,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN004512,CUST11769,2025-04-24 00:00:00,Invalid,Partner Portal,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN004132,CUST15025,2026-04-05 00:00:00,Unknown,CRM,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN000804,CUST18857,2026-07-10 00:00:00,Invalid,Mobile App,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN000712,,2026-06-12 00:00:00,Invalid,CRM,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN003063,CUST10131,2026-07-03 00:00:00,Unknown,E-Commerce,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN000512,CUST16731,2026-05-09 00:00:00,Invalid,E-Commerce,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN004322,CUST18102,2025-04-03 00:00:00,Invalid,Partner Portal,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN003972,CUST18582,2025-03-06 00:00:00,Unknown,Mobile App,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN000491,CUST19295,2025-07-18 00:00:00,Unknown,Partner Portal,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN003394,CUST13567,2025-12-13 00:00:00,Unknown,E-Commerce,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN001181,CUST19902,2025-03-08 00:00:00,Unknown,CRM,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN000904,CUST16111,2026-06-02 00:00:00,Unknown,POS,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN001789,CUST13354,2026-04-23 00:00:00,Unknown,CRM,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN000195,CUST12622,2026-02-20 00:00:00,Invalid,Mobile App,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN000412,CUST12910,2026-01-17 00:00:00,Unknown,POS,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN001177,CUST18290,2026-01-18 00:00:00,Unknown,Partner Portal,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN003261,CUST19350,2026-04-23 00:00:00,Unknown,E-Commerce,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN000817,CUST19281,2026-08-30 00:00:00,Unknown,E-Commerce,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN004368,CUST15833,2025-08-04 00:00:00,Unknown,POS,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN001396,CUST17164,2025-06-20 00:00:00,Invalid,POS,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN001106,CUST10347,2025-05-15 00:00:00,Unknown,Partner Portal,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN002302,CUST11497,2026-03-15 00:00:00,Invalid,Partner Portal,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN001374,CUST16450,2026-01-27 00:00:00,Invalid,Mobile App,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN002877,CUST16375,2025-09-18 00:00:00,Unknown,POS,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN004947,CUST19138,2025-08-22 00:00:00,Unknown,POS,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN000238,CUST18902,2025-12-10 00:00:00,Unknown,Partner Portal,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN003313,CUST12603,2026-01-12 00:00:00,Unknown,CRM,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN002926,CUST19706,2025-07-27 00:00:00,Unknown,POS,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN003869,CUST12710,2025-10-15 00:00:00,Invalid,E-Commerce,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN004567,CUST12558,2025-02-04 00:00:00,Unknown,Mobile App,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN001442,CUST12370,2025-03-28 00:00:00,Invalid,POS,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN002072,CUST10696,2026-04-20 00:00:00,Unknown,E-Commerce,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN000779,CUST13003,2025-10-26 00:00:00,Unknown,Partner Portal,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN001563,CUST10784,2025-09-12 00:00:00,Unknown,E-Commerce,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN000572,CUST11999,2025-09-14 00:00:00,Unknown,E-Commerce,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN002619,CUST16764,2026-03-05 00:00:00,Invalid,Partner Portal,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN004807,CUST11984,2025-03-22 00:00:00,Invalid,POS,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN003599,CUST16406,2025-01-20 00:00:00,Unknown,CRM,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN003875,CUST16698,2025-11-17 00:00:00,Invalid,Partner Portal,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN000689,CUST19996,2026-06-14 00:00:00,Unknown,CRM,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN002194,CUST12308,2025-10-28 00:00:00,Invalid,Mobile App,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN003975,CUST15746,2026-02-10 00:00:00,Invalid,POS,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN002428,CUST14436,2026-04-20 00:00:00,Unknown,E-Commerce,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN003125,CUST17659,2026-09-10 00:00:00,Unknown,E-Commerce,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN004132,CUST15025,2026-04-05 00:00:00,Unknown,CRM,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN001795,CUST18421,2026-03-25 00:00:00,Unknown,Partner Portal,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN002676,CUST17489,2026-04-12 00:00:00,Invalid,CRM,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN000879,CUST16419,2025-07-26 00:00:00,Unknown,CRM,Invalid Region,Medium,region,Region is not part of the approved region list.,Open
+TXN002766,CUST16362,2026-07-23 00:00:00,Central,POS,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN000323,CUST14544,2025-05-19 00:00:00,South,E-Commerce,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN001833,CUST15384,2025-08-29 00:00:00,South,CRM,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN003909,CUST12579,2025-05-08 00:00:00,West,POS,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN001591,CUST11589,2026-07-03 00:00:00,South,Partner Portal,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN001129,CUST19000,2026-09-12 00:00:00,East,Mobile App,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN000026,CUST17351,2025-09-12 00:00:00,South,POS,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN000644,CUST11526,2026-04-12 00:00:00,East,Mobile App,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN004916,CUST11024,2025-05-10 00:00:00,West,CRM,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN000679,CUST14990,2025-07-30 00:00:00,West,CRM,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN003823,CUST15696,2026-02-24 00:00:00,North,POS,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN003265,CUST14599,2026-06-08 00:00:00,West,Mobile App,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN000194,CUST15777,2026-03-31 00:00:00,Central,CRM,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN004335,CUST11749,2025-11-25 00:00:00,East,E-Commerce,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN003461,CUST19425,2026-04-05 00:00:00,Central,POS,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN004895,CUST11805,2025-09-14 00:00:00,Central,POS,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN001643,CUST10515,2026-04-15 00:00:00,South,Partner Portal,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN001338,CUST17699,2026-03-05 00:00:00,North,Mobile App,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN003755,CUST18087,2026-07-14 00:00:00,South,CRM,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN003286,CUST10965,2025-11-25 00:00:00,East,Mobile App,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN004779,CUST17253,2025-08-28 00:00:00,East,Mobile App,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN001308,CUST17844,2025-10-27 00:00:00,North,CRM,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN004772,CUST15076,2025-06-10 00:00:00,West,POS,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN001952,CUST17750,2027-01-29 00:00:00,South,Mobile App,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN003881,CUST16573,2026-09-15 00:00:00,East,POS,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN000887,CUST19124,2026-05-21 00:00:00,North,POS,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN002720,CUST16730,2026-09-12 00:00:00,Central,CRM,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN004624,CUST14734,2026-09-22 00:00:00,East,E-Commerce,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN000054,CUST13849,2026-06-12 00:00:00,East,E-Commerce,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN002642,CUST13842,2026-08-12 00:00:00,South,Partner Portal,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN004974,CUST15339,2025-03-28 00:00:00,West,CRM,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN002718,CUST18667,2026-02-17 00:00:00,West,CRM,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN000967,CUST14290,2025-07-02 00:00:00,North,Mobile App,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN003678,CUST13763,2025-10-23 00:00:00,Central,CRM,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN004656,CUST16736,2026-04-01 00:00:00,Central,E-Commerce,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN004137,CUST13754,2026-04-01 00:00:00,East,CRM,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN000877,CUST17593,2026-03-23 00:00:00,South,CRM,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN003192,CUST19667,2025-04-01 00:00:00,Central,Mobile App,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN003697,CUST12954,2026-07-15 00:00:00,North,CRM,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN003458,CUST11863,2025-09-05 00:00:00,West,Mobile App,Negative Sales Amount,High,sales_amount,Sales amount cannot be negative.,Open
+TXN002620,CUST12719,2025-04-16 00:00:00,South,POS,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN003472,CUST12929,2025-08-24 00:00:00,South,POS,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN003634,CUST12265,2025-07-11 00:00:00,West,E-Commerce,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN000275,CUST18592,2025-07-03 00:00:00,South,Partner Portal,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN004447,CUST11011,2026-06-02 00:00:00,North,POS,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN004744,CUST17332,2026-03-19 00:00:00,West,E-Commerce,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN004499,CUST12090,2025-01-13 00:00:00,North,POS,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN003444,CUST19723,2026-08-23 00:00:00,North,POS,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN002233,CUST17069,2026-07-18 00:00:00,South,E-Commerce,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN003551,CUST13956,2025-04-05 00:00:00,East,CRM,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN002154,CUST18397,2026-07-04 00:00:00,East,Partner Portal,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN003691,CUST19452,2025-06-19 00:00:00,West,E-Commerce,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN002317,CUST19648,2025-08-14 00:00:00,West,Mobile App,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN001847,CUST16974,2025-09-09 00:00:00,East,CRM,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN003077,CUST13331,2026-09-05 00:00:00,South,Partner Portal,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN004161,CUST10849,2025-12-13 00:00:00,North,CRM,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN004074,CUST19629,2025-05-24 00:00:00,West,E-Commerce,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN000841,CUST10377,2026-01-22 00:00:00,Central,E-Commerce,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN004847,CUST12213,2025-09-18 00:00:00,North,Partner Portal,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN003711,CUST18000,2026-05-19 00:00:00,Central,Mobile App,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN002461,CUST16990,2025-11-19 00:00:00,North,Partner Portal,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN004648,CUST18999,2025-12-02 00:00:00,North,Partner Portal,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN003313,CUST12603,2026-01-12 00:00:00,Unknown,CRM,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN002346,CUST17009,2025-03-11 00:00:00,West,Mobile App,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN003869,CUST12710,2025-10-15 00:00:00,Invalid,E-Commerce,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN002010,CUST10751,2026-03-13 00:00:00,North,E-Commerce,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN000630,CUST10695,2026-06-18 00:00:00,South,Mobile App,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN002921,CUST19220,2026-02-18 00:00:00,North,Mobile App,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN002247,CUST13675,2026-02-12 00:00:00,South,E-Commerce,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN000763,CUST19400,2025-10-30 00:00:00,South,POS,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN002974,CUST14035,2026-01-17 00:00:00,East,POS,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN001450,CUST15387,2026-08-26 00:00:00,Central,Partner Portal,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN000224,CUST10437,2026-03-03 00:00:00,Central,Partner Portal,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN003578,CUST16502,2025-04-30 00:00:00,West,E-Commerce,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN003994,CUST17707,2025-01-30 00:00:00,East,CRM,Invalid Quantity,High,quantity,Transaction quantity must be greater than zero.,Open
+TXN001996,CUST14413,2027-08-23 00:00:00,North,Mobile App,Future Transaction Date,Medium,transaction_date,Transaction date occurs after the data cutoff date.,Open
+TXN000070,CUST12750,2027-01-19 00:00:00,Central,E-Commerce,Future Transaction Date,Medium,transaction_date,Transaction date occurs after the data cutoff date.,Open
+TXN004588,CUST18834,2027-09-04 00:00:00,Central,Partner Portal,Future Transaction Date,Medium,transaction_date,Transaction date occurs after the data cutoff date.,Open
+TXN003250,CUST17013,2027-06-14 00:00:00,South,E-Commerce,Future Transaction Date,Medium,transaction_date,Transaction date occurs after the data cutoff date.,Open
+TXN000097,CUST12635,2027-08-28 00:00:00,East,POS,Future Transaction Date,Medium,transaction_date,Transaction date occurs after the data cutoff date.,Open
+TXN003293,CUST18180,2027-12-21 00:00:00,East,E-Commerce,Future Transaction Date,Medium,transaction_date,Transaction date occurs after the data cutoff date.,Open
+TXN004900,CUST12747,2027-08-17 00:00:00,South,Mobile App,Future Transaction Date,Medium,transaction_date,Transaction date occurs after the data cutoff date.,Open
+TXN000439,CUST18155,2027-05-25 00:00:00,South,POS,Future Transaction Date,Medium,transaction_date,Transaction date occurs after the data cutoff date.,Open
+TXN002232,CUST17290,2027-06-15 00:00:00,North,E-Commerce,Future Transaction Date,Medium,transaction_date,Transaction date occurs after the data cutoff date.,Open
+TXN001109,CUST14318,2027-02-13 00:00:00,South,E-Commerce,Future Transaction Date,Medium,transaction_date,Transaction date occurs after the data cutoff date.,Open
+TXN000616,CUST18203,2027-08-19 00:00:00,West,CRM,Future Transaction Date,Medium,transaction_date,Transaction date occurs after the data cutoff date.,Open
+TXN003943,CUST13624,2027-05-12 00:00:00,West,POS,Future Transaction Date,Medium,transaction_date,Transaction date occurs after the data cutoff date.,Open
+TXN001427,CUST11570,2027-11-15 00:00:00,West,E-Commerce,Future Transaction Date,Medium,transaction_date,Transaction date occurs after the data cutoff date.,Open
+TXN001644,CUST17703,2027-11-24 00:00:00,West,POS,Future Transaction Date,Medium,transaction_date,Transaction date occurs after the data cutoff date.,Open
+TXN001728,CUST19258,2027-07-08 00:00:00,West,POS,Future Transaction Date,Medium,transaction_date,Transaction date occurs after the data cutoff date.,Open
+TXN000436,CUST10324,2027-07-06 00:00:00,North,Mobile App,Future Transaction Date,Medium,transaction_date,Transaction date occurs after the data cutoff date.,Open
+TXN004766,CUST11370,2027-05-25 00:00:00,South,CRM,Future Transaction Date,Medium,transaction_date,Transaction date occurs after the data cutoff date.,Open
+TXN000490,CUST18398,2027-01-18 00:00:00,South,E-Commerce,Future Transaction Date,Medium,transaction_date,Transaction date occurs after the data cutoff date.,Open
+TXN001957,CUST19022,2027-12-23 00:00:00,West,POS,Future Transaction Date,Medium,transaction_date,Transaction date occurs after the data cutoff date.,Open
+TXN003084,CUST15537,2027-07-01 00:00:00,East,Mobile App,Future Transaction Date,Medium,transaction_date,Transaction date occurs after the data cutoff date.,Open
+TXN001952,CUST17750,2027-01-29 00:00:00,South,Mobile App,Future Transaction Date,Medium,transaction_date,Transaction date occurs after the data cutoff date.,Open
+TXN003527,CUST18231,2027-10-03 00:00:00,East,Partner Portal,Future Transaction Date,Medium,transaction_date,Transaction date occurs after the data cutoff date.,Open
+TXN004785,CUST19374,2027-07-04 00:00:00,Central,Partner Portal,Future Transaction Date,Medium,transaction_date,Transaction date occurs after the data cutoff date.,Open
+TXN002249,CUST18868,2027-09-02 00:00:00,East,Mobile App,Future Transaction Date,Medium,transaction_date,Transaction date occurs after the data cutoff date.,Open
+TXN001380,CUST18429,2027-05-20 00:00:00,Central,CRM,Future Transaction Date,Medium,transaction_date,Transaction date occurs after the data cutoff date.,Open
+TXN003157,CUST10906,2027-02-26 00:00:00,South,Partner Portal,Future Transaction Date,Medium,transaction_date,Transaction date occurs after the data cutoff date.,Open
+TXN000286,CUST12528,2027-11-13 00:00:00,West,CRM,Future Transaction Date,Medium,transaction_date,Transaction date occurs after the data cutoff date.,Open
+TXN001909,CUST16000,2027-01-10 00:00:00,East,Mobile App,Future Transaction Date,Medium,transaction_date,Transaction date occurs after the data cutoff date.,Open
+TXN001192,CUST15030,2027-03-11 00:00:00,Central,Mobile App,Future Transaction Date,Medium,transaction_date,Transaction date occurs after the data cutoff date.,Open
+TXN002812,CUST19597,2027-11-14 00:00:00,Central,CRM,Future Transaction Date,Medium,transaction_date,Transaction date occurs after the data cutoff date.,Open
+TXN004933,CUST12011,2026-02-08 00:00:00,South,Mobile App,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN001502,,2026-08-31 00:00:00,West,E-Commerce,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN001184,CUST12886,2025-01-24 00:00:00,North,POS,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN000081,CUST13778,2026-04-10 00:00:00,North,POS,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN002347,CUST15692,2025-05-26 00:00:00,East,E-Commerce,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN004326,CUST15781,2026-09-09 00:00:00,North,POS,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN002094,CUST15834,2025-06-14 00:00:00,Central,Partner Portal,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN001808,CUST13853,2026-02-10 00:00:00,East,E-Commerce,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN003001,CUST17780,2026-02-20 00:00:00,North,E-Commerce,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN004377,CUST19492,2026-07-12 00:00:00,South,Mobile App,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN000319,CUST10529,2025-09-11 00:00:00,West,CRM,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN001057,CUST17547,2025-04-20 00:00:00,East,E-Commerce,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN004824,CUST16210,2026-08-17 00:00:00,North,Mobile App,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN004270,CUST11589,2026-08-25 00:00:00,East,POS,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN002701,CUST17353,2025-12-03 00:00:00,North,CRM,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN000577,CUST12540,2026-08-19 00:00:00,East,E-Commerce,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN002371,CUST16726,2025-04-30 00:00:00,South,Partner Portal,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN002678,CUST14865,2026-07-21 00:00:00,North,Partner Portal,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN001685,CUST11676,2025-03-07 00:00:00,Central,CRM,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN000797,CUST11393,2026-02-10 00:00:00,North,Mobile App,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN002016,CUST16914,2025-10-14 00:00:00,East,POS,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN000174,CUST17685,2026-07-01 00:00:00,South,Mobile App,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN003280,CUST11591,2025-08-09 00:00:00,Central,Partner Portal,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN004575,CUST14700,2025-03-18 00:00:00,West,POS,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN002304,CUST17121,2025-05-21 00:00:00,South,CRM,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN003207,CUST13379,2026-06-05 00:00:00,South,E-Commerce,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN000533,CUST14223,2025-12-15 00:00:00,Central,Mobile App,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN003998,CUST11084,2025-12-09 00:00:00,North,POS,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN003832,CUST13440,2025-03-05 00:00:00,West,Partner Portal,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN002688,CUST10962,2025-05-23 00:00:00,East,Mobile App,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN001975,CUST12764,2025-11-11 00:00:00,Central,E-Commerce,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN002302,CUST11497,2026-03-15 00:00:00,Invalid,Partner Portal,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN001079,CUST14165,2025-06-17 00:00:00,West,Partner Portal,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN001831,CUST14484,2026-03-17 00:00:00,Central,CRM,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN003397,CUST18077,2025-12-14 00:00:00,North,E-Commerce,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN003144,CUST16001,2026-01-14 00:00:00,North,Partner Portal,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN003541,CUST10606,2026-09-02 00:00:00,West,CRM,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN003803,CUST17291,2025-04-04 00:00:00,North,CRM,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN000124,CUST18792,2025-04-03 00:00:00,North,POS,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN001796,CUST17207,2025-06-07 00:00:00,East,E-Commerce,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN003931,CUST14315,2025-10-30 00:00:00,South,CRM,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN004027,CUST17700,2025-10-23 00:00:00,Central,Mobile App,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN001377,CUST16606,2026-08-31 00:00:00,Central,Partner Portal,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN004699,CUST14383,2025-06-12 00:00:00,Central,POS,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN000050,CUST15410,2026-03-18 00:00:00,Central,POS,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN000036,CUST17180,2025-09-08 00:00:00,Central,Partner Portal,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN002890,CUST14814,2025-10-10 00:00:00,North,E-Commerce,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN000305,CUST10733,2026-04-09 00:00:00,North,CRM,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN004041,CUST16092,2025-01-26 00:00:00,Central,CRM,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN003275,CUST13336,2025-11-06 00:00:00,East,E-Commerce,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN002047,CUST18379,2025-07-23 00:00:00,South,E-Commerce,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN001713,CUST15628,2026-07-07 00:00:00,Central,Partner Portal,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN002200,CUST17034,2026-07-13 00:00:00,West,Partner Portal,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN002357,CUST10773,2025-05-14 00:00:00,North,Partner Portal,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN003440,CUST17542,2026-05-28 00:00:00,North,CRM,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN004134,CUST12644,2025-04-05 00:00:00,West,POS,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN004972,CUST17135,2026-07-07 00:00:00,East,Partner Portal,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN004125,CUST17528,2025-02-02 00:00:00,South,POS,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN000108,CUST12069,2025-06-05 00:00:00,Central,CRM,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN003954,CUST14043,2026-08-10 00:00:00,West,CRM,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN001112,CUST15021,2025-02-22 00:00:00,South,Mobile App,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN004617,CUST14048,2026-09-08 00:00:00,South,E-Commerce,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN003490,CUST16256,2025-12-25 00:00:00,East,Partner Portal,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN004170,CUST16144,2026-04-26 00:00:00,North,Partner Portal,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN000342,CUST18210,2026-06-03 00:00:00,West,CRM,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN003573,CUST18883,2025-09-12 00:00:00,West,CRM,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN001255,CUST10340,2025-04-26 00:00:00,South,E-Commerce,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN002899,CUST11521,2025-10-27 00:00:00,North,Mobile App,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN002740,CUST13169,2026-08-28 00:00:00,South,E-Commerce,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN001977,CUST11665,2026-04-08 00:00:00,West,CRM,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN002815,CUST12648,2026-05-25 00:00:00,East,Partner Portal,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN001532,CUST17693,2025-05-18 00:00:00,East,Partner Portal,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN004269,CUST17940,2026-05-21 00:00:00,East,POS,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN002924,CUST14437,2025-06-13 00:00:00,West,E-Commerce,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN001157,CUST12296,2025-06-03 00:00:00,Central,Mobile App,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN004617,CUST14048,2026-09-08 00:00:00,South,E-Commerce,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN004805,CUST12982,2025-01-18 00:00:00,South,E-Commerce,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN004584,CUST14573,2026-07-24 00:00:00,West,E-Commerce,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN000981,CUST14497,2025-12-04 00:00:00,South,E-Commerce,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN000607,CUST17047,2025-09-06 00:00:00,East,CRM,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN000563,CUST17688,2026-06-20 00:00:00,Central,Mobile App,Missing Payment Method,Medium,payment_method,Payment method is missing.,Open
+TXN004243,CUST10963,2025-02-28 00:00:00,South,POS,Invalid Transaction Status,Medium,transaction_status,Transaction status is not an approved status.,Open
+TXN004764,CUST12109,2025-08-11 00:00:00,West,E-Commerce,Invalid Transaction Status,Medium,transaction_status,Transaction status is not an approved status.,Open
+TXN001074,,2025-06-15 00:00:00,North,POS,Invalid Transaction Status,Medium,transaction_status,Transaction status is not an approved status.,Open
+TXN001742,CUST16775,2026-08-03 00:00:00,East,Mobile App,Invalid Transaction Status,Medium,transaction_status,Transaction status is not an approved status.,Open
+TXN000327,CUST18106,2025-08-12 00:00:00,East,POS,Invalid Transaction Status,Medium,transaction_status,Transaction status is not an approved status.,Open
+TXN001832,CUST19506,2026-09-07 00:00:00,South,POS,Invalid Transaction Status,Medium,transaction_status,Transaction status is not an approved status.,Open
+TXN000519,CUST10117,2025-09-21 00:00:00,Central,Partner Portal,Invalid Transaction Status,Medium,transaction_status,Transaction status is not an approved status.,Open
+TXN003444,CUST19723,2026-08-23 00:00:00,North,POS,Invalid Transaction Status,Medium,transaction_status,Transaction status is not an approved status.,Open
+TXN003209,CUST12813,2025-07-04 00:00:00,South,CRM,Invalid Transaction Status,Medium,transaction_status,Transaction status is not an approved status.,Open
+TXN004945,CUST16111,2025-01-31 00:00:00,North,Mobile App,Invalid Transaction Status,Medium,transaction_status,Transaction status is not an approved status.,Open
+TXN002645,CUST15254,2026-07-09 00:00:00,West,E-Commerce,Invalid Transaction Status,Medium,transaction_status,Transaction status is not an approved status.,Open
+TXN003168,CUST13551,2025-01-29 00:00:00,West,POS,Invalid Transaction Status,Medium,transaction_status,Transaction status is not an approved status.,Open
+TXN000490,CUST18398,2027-01-18 00:00:00,South,E-Commerce,Invalid Transaction Status,Medium,transaction_status,Transaction status is not an approved status.,Open
+TXN003657,CUST18971,2026-05-18 00:00:00,South,E-Commerce,Invalid Transaction Status,Medium,transaction_status,Transaction status is not an approved status.,Open
+TXN002127,CUST14295,2025-02-21 00:00:00,South,POS,Invalid Transaction Status,Medium,transaction_status,Transaction status is not an approved status.,Open
+TXN002065,CUST10277,2025-02-03 00:00:00,Central,Mobile App,Invalid Transaction Status,Medium,transaction_status,Transaction status is not an approved status.,Open
+TXN003005,CUST10356,2025-03-28 00:00:00,South,POS,Invalid Transaction Status,Medium,transaction_status,Transaction status is not an approved status.,Open
+TXN002055,CUST19149,2025-04-13 00:00:00,West,E-Commerce,Invalid Transaction Status,Medium,transaction_status,Transaction status is not an approved status.,Open
+TXN000668,CUST17630,2025-07-22 00:00:00,Central,Mobile App,Invalid Transaction Status,Medium,transaction_status,Transaction status is not an approved status.,Open
+TXN001811,CUST16010,2025-02-03 00:00:00,East,CRM,Invalid Transaction Status,Medium,transaction_status,Transaction status is not an approved status.,Open
+TXN002994,CUST14617,2025-12-02 00:00:00,Central,E-Commerce,Invalid Transaction Status,Medium,transaction_status,Transaction status is not an approved status.,Open
+TXN004722,CUST19691,2025-05-26 00:00:00,South,E-Commerce,Invalid Transaction Status,Medium,transaction_status,Transaction status is not an approved status.,Open
+TXN002301,CUST14386,2025-03-30 00:00:00,North,POS,Invalid Transaction Status,Medium,transaction_status,Transaction status is not an approved status.,Open
+TXN003462,CUST11351,2026-03-02 00:00:00,East,CRM,Invalid Transaction Status,Medium,transaction_status,Transaction status is not an approved status.,Open
+TXN001686,CUST15630,2026-01-01 00:00:00,North,Partner Portal,Invalid Transaction Status,Medium,transaction_status,Transaction status is not an approved status.,Open

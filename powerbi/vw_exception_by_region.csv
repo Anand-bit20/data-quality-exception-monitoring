@@ -1,0 +1,8 @@
+region,exception_count,affected_records
+Central,73,64
+East,92,74
+Invalid,23,19
+North,88,71
+South,111,86
+Unknown,35,31
+West,92,76

@@ -1,0 +1,6 @@
+source_system,total_records,valid_records,exception_records,quality_score
+CRM,987,890,97,90.17
+E-Commerce,1023,912,111,89.15
+Mobile App,1046,957,89,91.49
+POS,1004,895,109,89.14
+Partner Portal,1015,925,90,91.13

@@ -1,0 +1,9 @@
+exception_rule,severity,exception_count,affected_records
+Duplicate Transaction,Medium,150,75
+Future Transaction Date,Medium,30,30
+Invalid Quantity,High,35,35
+Invalid Region,Medium,51,50
+Invalid Transaction Status,Medium,25,25
+Missing Customer ID,High,102,100
+Missing Payment Method,Medium,81,80
+Negative Sales Amount,High,40,40
