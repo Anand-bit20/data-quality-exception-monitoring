@@ -169,7 +169,33 @@ The project also includes reusable SQL views for Power BI reporting.
 
 ## Power BI Dashboard
 
-The Power BI dashboard provides an interactive overview of data quality and exception patterns.
+The project includes a Power BI dashboard designed to monitor data quality and identify major exception areas across transactions and source systems.
+
+### Dashboard Highlights
+
+- **Data Quality Score:** 90.23%
+- **Total Transactions:** 5,075
+- **Exception Records:** 496
+- **Total Exceptions:** 514
+- Exception analysis by validation rule
+- Exception distribution by source system
+- Exception distribution by region
+- Monthly exception trend
+- Data quality comparison across source systems
+- High vs. Medium severity analysis
+
+### Dashboard Preview
+
+![Data Quality & Exception Monitoring Dashboard](powerbi/dashboard-preview.png)
+
+### Power BI Report
+
+The Power BI report file is available in the `powerbi` folder:
+
+**[Download Data Quality Dashboard](powerbi/Data_Quality_Dashboard.pbix)**
+
+The `.pbix` file can be opened using Power BI Desktop.
+
 
 ### Dashboard includes
 
@@ -342,6 +368,8 @@ Potential improvements include:
 * Adding historical data quality monitoring
 
 ---
+
+
 
 ## Author
 
